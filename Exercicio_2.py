@@ -1,7 +1,6 @@
 import random
 import time
 
-# Implementação do algoritmo
 def maxVal1(A):
     max_val = A[0]
     iterations = 0
